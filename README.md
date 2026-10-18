@@ -1,6 +1,6 @@
-# Обновления программ
+# c1dance-updates
 
-[Скачать последний выпуск](https://github.com/raiskhusainova-hub/avataria-updates/releases/latest)
+[Скачать последний выпуск](https://github.com/raiskhusainova-hub/c1dance-updates/releases/latest)
 
 Скачайте EXE нужной программы. Другие файлы вручную скачивать не требуется: пакет совместимости встроен в EXE, а новые подписанные версии загружаются автоматически.
 
@@ -8,14 +8,10 @@
 | --- | --- |
 | Гонки / Серфы | Gonki.exe |
 | Танцы, обычная версия | Dance.exe |
-| Танцы, расширенная скорость | Dance_x1000.exe |
 | Хоккей | Hockey.exe |
 | Меткий стрелок | PT.exe |
 | Уборка | Uborka.exe |
-| Поглаживание питомца | Farm.exe |
-| Анимации и стикеры | Anim.exe |
-| VIP / пинбол | Vip.exe |
-| Сноуборд | GK.exe / GK_Jarvis.exe / Active.exe |
+| Сноуборд | GK.exe |
 | Сурикат | Surikat.exe |
 | Клуб | Club.exe |
 | SP | SP.exe |
