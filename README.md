@@ -14,7 +14,6 @@
 | Сноуборд | GK.exe |
 | Сурикат | Surikat.exe |
 | Клуб | Club.exe |
-| SP | SP.exe |
 
 ## Автообновление
 
