@@ -12,4 +12,3 @@
 | Сноуборд | GK.exe |
 | Сурикат | Surikat.exe |
 | Клуб | Club.exe |
-| Хеллоуин | halloween.exe |
